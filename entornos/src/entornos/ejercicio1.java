@@ -19,6 +19,8 @@ public class ejercicio1 {
 		//he puesto hola mundo
 		System.out.println("buenas tardes");
 		//he puesto buenas tardes
+		System.out.println("Adios mundo");
+		//he puesto adios mundo
 
 	}
 
