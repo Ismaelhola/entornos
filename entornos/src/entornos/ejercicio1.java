@@ -21,6 +21,8 @@ public class ejercicio1 {
 		//he puesto buenas tardes
 		System.out.println("Adios mundo");
 		//he puesto adios mundo
+		System.out.println("hola de nuevo");
+		//he puesto hola de nuevo
 
 	}
 
