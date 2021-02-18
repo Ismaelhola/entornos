@@ -57,7 +57,11 @@ class ComplexTest {
 
 	@Test
 	void testEqualsObject() {
+		Complex prueba = new Complex(2,30);
+		Complex prueba1 = new Complex(2,30);
 		
+		boolean resultado = prueba.equals(prueba1);
+		assertEquals(resultado, true);
 	}
 
 }
